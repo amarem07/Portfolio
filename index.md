@@ -1,7 +1,3 @@
----
-title: "Michael Amare — Data Science & Machine Learning Portfolio"
-layout: default
----
 
 # <span style="font-size:38px; font-weight:700;">Michael Amare</span>  
 ### <span style="font-size:22px; color:#555;">Data Scientist | Machine Learning Engineer</span>
