@@ -27,7 +27,7 @@ A full machine-learning classification system built using a dataset of 11,055 UR
 - Compared Logistic Regression, SVM, Random Forest, and XGBoost  
 - Achieved **96% accuracy** with tuned XGBoost  
 - Evaluated using ROC-AUC, confusion matrix, precision/recall  
-👉 **View Project:** [Phishing URL Detection](projects/phishing-url-detection/README.md)
+👉 **View Project:** [Phishing URL Detection](Portfolio/phishing-url-detection/README.md)
 
 ---
 
@@ -38,7 +38,7 @@ A deep learning image classification model using **101,000+ food images** across
 - Implemented transfer learning using EfficientNetB0  
 - Applied heavy augmentation to reduce overfitting  
 - Improved baseline accuracy by **20×**  
-👉 **View Project:** [Food-101 Classification](projects/food-101-classification/README.md)
+👉 **View Project:** [Food-101 Classification](Portfolio/food-101-classification/README.md)
 
 ---
 
@@ -49,7 +49,7 @@ A predictive regression pipeline estimating real estate values using numerical, 
 - Compared Linear Regression, Ridge, Lasso, Elastic Net, PCR, and PLSR  
 - PLSR reduced overfitting by **80%** and provided the most stable RMSE  
 - Included full diagnostic plots and feature importance analysis  
-👉 **View Project:** [Housing Value Prediction](projects/housing-value-prediction/README.md)
+👉 **View Project:** [Housing Value Prediction](Portfolio/housing-value-prediction/README.md)
 
 ---
 
