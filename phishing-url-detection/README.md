@@ -133,6 +133,9 @@ Included:
 ---
 
 ## 📘 Jupyter Notebooks  
+
+- [01_linear_regression_interactions](01_linear_regression_interactions.ipynb)
+
 - [01_linear_regression_interactions](01_linear_regression_interactions.ipynb)
 - [02_regularization_lasso_ridge](02_regularization_lasso_ridge.ipynb)
 - [03_forward_backward_selection](03_forward_backward_selection.ipynb)
