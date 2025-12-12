@@ -141,13 +141,13 @@ Included:
   [01_linear_regression_interactions](https://github.com/amarem07/Portfolio/blob/main/phishing-url-detection/01_linear_regression_interactions.ipynb)
 
 - **Regularization (Lasso & Ridge)**  
-  [02_regularization_lasso_ridge](https://github.com/amarem07/Portfolio/blob/main/phishing-url-detection/02_regularization_lasso_ridge.ipynb)
+  [02_regularization_lasso_ridge](https://github.com/amarem07/Portfolio/blob/main/phishing-url-detection/02_regularization_lasso_ridge_elasticnet.ipynb)
 
 - **Forward/Backward Selection**  
-  [03_forward_backward_selection](https://github.com/amarem07/Portfolio/blob/main/phishing-url-detection/03_forward_backward_selection.ipynb)
+  [03_forward_backward_selection](https://github.com/amarem07/Portfolio/blob/main/phishing-url-detection/03_forward_backward_selection_pcr_plsr.ipynb)
 
 - **Logistic Regression (Feature Engineering)**  
-  [04_logistic_regression_features](https://github.com/amarem07/Portfolio/blob/main/phishing-url-detection/04_logistic_regression_features.ipynb)
+  [04_logistic_regression_features](https://github.com/amarem07/Portfolio/blob/main/phishing-url-detection/04_logistic_regression_feature_feature_scaling.ipynb)
 
 - **SVM & Kernel Tricks**  
   [05_svm-kernel_regularization](https://github.com/amarem07/Portfolio/blob/main/phishing-url-detection/05_svm-kernel_regularization.ipynb)
