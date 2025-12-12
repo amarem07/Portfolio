@@ -160,4 +160,13 @@ Potential improvements include:
 
 ---
 
+## 10. Notebooks
+
+The full analysis and modeling workflow is documented in the following notebooks:
+
+- **[Milestone 1 – Exploratory Data Analysis & Baseline Modeling](Housing_01_EDA.ipynb)**  
+  Covers data cleaning, exploratory analysis, distributional analysis, correlation studies, and initial regression models.
+
+- **[Milestone 2 – Feature Engineering, Model Tuning & Final Selection](Housing_02_Modeling.ipynb)**  
+  Includes feature engineering strategies, scaling approaches, hyperparameter tuning, ensemble model comparison, and final model selection.
 
