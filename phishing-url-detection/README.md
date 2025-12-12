@@ -121,4 +121,28 @@ Included:
 
 ---
 
-## 📎 Files in This Folder
+
+
+## 📁 Files in This Folder
+
+### 📝 Reports
+
+- **Technical Report:** [Integrated Capstone — Non-Technical](IntegratedCapstone(Non-Technical).ipynb)
+- **Non-Technical Report:** [Integrated Capstone — Technical](IntegratedCapstone(Technical).ipynb)
+
+---
+
+## 📘 Jupyter Notebooks  
+- [01_linear_regression_interactions](01_linear_regression_interactions.ipynb)
+- [02_regularization_lasso_ridge](02_regularization_lasso_ridge.ipynb)
+- [03_forward_backward_selection](03_forward_backward_selection.ipynb)
+- [04_logistic_regression_features](04_logistic_regression_features.ipynb)
+- [05_svm-kernel_regularization](05_svm-kernel_regularization.ipynb)
+- [06_decision_trees_random_forest](06_decision_trees_random_forest.ipynb)
+- [07_knn_classification](07_knn_classification.ipynb)
+- [08_gradient_boost_xgboost](08_gradient_boost_xgboost.ipynb)
+- [09_kmeans_elbow_silhouette](09_kmeans_elbow_silhouette.ipynb)
+- [10_dbscan_core_indices](10_dbscan_core_indices.ipynb)
+
+
+
