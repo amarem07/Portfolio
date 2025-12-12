@@ -1,6 +1,13 @@
+<div align="center">
 
-# <span style="font-size:38px; font-weight:700;">Michael Amare</span>  
-### <span style="font-size:22px; color:#555;">Data Scientist | Machine Learning Engineer</span>
+<h1 style="font-size:38px; margin-bottom:5px;">Michael Amare</h1>
+<p style="font-size:20px; color:#555; margin-top:0;">
+Data Scientist | Machine Learning Engineer
+</p>
+
+</div>
+
+<hr>
 
 ---
 
@@ -20,6 +27,8 @@ I specialize in:
 
 # 📁 Featured Machine Learning Projects
 
+
+  
 ## 🛡️ **Phishing URL Detection (XGBoost + PCA)**
 A full machine-learning classification system built using a dataset of 11,055 URLs and 88 engineered features.  
 **Highlights:**
