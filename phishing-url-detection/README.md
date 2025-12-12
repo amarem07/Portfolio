@@ -129,10 +129,10 @@ Included:
 
 
 - **Technical Report:**  
-  [View Technical Report](https://amarem07.github.io/Portfolio/phishing-url-detection/IntegratedCapstone(Technical%20Report).pdf)
+  [Technical Report](https://amarem07.github.io/Portfolio/phishing-url-detection/IntegratedCapstone(Technical%20Report).pdf)
 
 - **Non-Technical Report:**  
-  [View Non-Technical Report](https://amarem07.github.io/Portfolio/phishing-url-detection/IntegratedCapstone(Non-Technical%20Report).pdf)
+  [Non-Technical Report](https://amarem07.github.io/Portfolio/phishing-url-detection/IntegratedCapstone(Non-Technical%20Report).pdf)
 
 
 ---
