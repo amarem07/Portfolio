@@ -38,7 +38,7 @@ A deep learning image classification model using **101,000+ food images** across
 - Implemented transfer learning using EfficientNetB0  
 - Applied heavy augmentation to reduce overfitting  
 - Improved baseline accuracy by **20×**  
-👉 **View Project:** [Food-101 Classification](Portfolio/food-101-classification/)
+👉 **View Project:** [Food-101 Classification](/food-101-classification/)
 
 ---
 
@@ -49,7 +49,7 @@ A predictive regression pipeline estimating real estate values using numerical, 
 - Compared Linear Regression, Ridge, Lasso, Elastic Net, PCR, and PLSR  
 - PLSR reduced overfitting by **80%** and provided the most stable RMSE  
 - Included full diagnostic plots and feature importance analysis  
-👉 **View Project:** [Housing Value Prediction](Portfolio/housing-value-prediction/)
+👉 **View Project:** [Housing Value Prediction](/housing-value-prediction/)
 
 ---
 
