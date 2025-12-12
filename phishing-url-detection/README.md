@@ -126,11 +126,14 @@ Included:
 ## 📁 Files in This Folder
 
 ### 📄 Reports
+
+
 - **Technical Report:**  
-  [technical-report.pdf](technical-report.pdf)
+  [View Technical Report](https://amarem07.github.io/Portfolio/phishing-url-detection/IntegratedCapstone(Technical%20Report).pdf)
 
 - **Non-Technical Report:**  
-  [non-technical-report.pdf](non-technical-report.pdf)
+  [View Non-Technical Report](https://amarem07.github.io/Portfolio/phishing-url-detection/IntegratedCapstone(Non-Technical%20Report).pdf)
+
 
 ---
 
