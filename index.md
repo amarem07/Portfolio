@@ -27,7 +27,7 @@ A full machine-learning classification system built using a dataset of 11,055 UR
 - Compared Logistic Regression, SVM, Random Forest, and XGBoost  
 - Achieved **96% accuracy** with tuned XGBoost  
 - Evaluated using ROC-AUC, confusion matrix, precision/recall  
-👉 **View Project:** [Phishing URL Detection](phishing-url-detection/)
+👉 **View Project:** [Phishing URL Detection](https://amarem07.github.io/phishing-url-detection/)
 
 ---
 
