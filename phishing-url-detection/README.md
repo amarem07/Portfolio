@@ -125,27 +125,51 @@ Included:
 
 ## 📁 Files in This Folder
 
-### 📝 Reports
+### 📄 Reports
+- **Technical Report:**  
+  [technical-report.pdf](technical-report.pdf)
 
-- **Technical Report:** [Integrated Capstone — Non-Technical](IntegratedCapstone(Non-Technical).ipynb)
-- **Non-Technical Report:** [Integrated Capstone — Technical](IntegratedCapstone(Technical).ipynb)
+- **Non-Technical Report:**  
+  [non-technical-report.pdf](non-technical-report.pdf)
 
 ---
 
-## 📘 Jupyter Notebooks  
+### 📓 Jupyter Notebooks  
+(All links open fully rendered on GitHub)
 
-- [01_linear_regression_interactions](01_linear_regression_interactions.ipynb)
+- **Linear Regression (Interactions)**  
+  [01_linear_regression_interactions](https://github.com/amarem07/Portfolio/blob/main/phishing-url-detection/01_linear_regression_interactions.ipynb)
 
-- [01_linear_regression_interactions](01_linear_regression_interactions.ipynb)
-- [02_regularization_lasso_ridge](02_regularization_lasso_ridge.ipynb)
-- [03_forward_backward_selection](03_forward_backward_selection.ipynb)
-- [04_logistic_regression_features](04_logistic_regression_features.ipynb)
-- [05_svm-kernel_regularization](05_svm-kernel_regularization.ipynb)
-- [06_decision_trees_random_forest](06_decision_trees_random_forest.ipynb)
-- [07_knn_classification](07_knn_classification.ipynb)
-- [08_gradient_boost_xgboost](08_gradient_boost_xgboost.ipynb)
-- [09_kmeans_elbow_silhouette](09_kmeans_elbow_silhouette.ipynb)
-- [10_dbscan_core_indices](10_dbscan_core_indices.ipynb)
+- **Regularization (Lasso & Ridge)**  
+  [02_regularization_lasso_ridge](https://github.com/amarem07/Portfolio/blob/main/phishing-url-detection/02_regularization_lasso_ridge.ipynb)
+
+- **Forward/Backward Selection**  
+  [03_forward_backward_selection](https://github.com/amarem07/Portfolio/blob/main/phishing-url-detection/03_forward_backward_selection.ipynb)
+
+- **Logistic Regression (Feature Engineering)**  
+  [04_logistic_regression_features](https://github.com/amarem07/Portfolio/blob/main/phishing-url-detection/04_logistic_regression_features.ipynb)
+
+- **SVM & Kernel Tricks**  
+  [05_svm-kernel_regularization](https://github.com/amarem07/Portfolio/blob/main/phishing-url-detection/05_svm-kernel_regularization.ipynb)
+
+- **Decision Trees & Random Forest**  
+  [06_decision_trees_random_forest](https://github.com/amarem07/Portfolio/blob/main/phishing-url-detection/06_decision_trees_random_forest.ipynb)
+
+- **KNN Classification**  
+  [07_knn_classification](https://github.com/amarem07/Portfolio/blob/main/phishing-url-detection/07_knn_classification.ipynb)
+
+- **Gradient Boosting & XGBoost**  
+  [08_gradient_boost_xgboost](https://github.com/amarem07/Portfolio/blob/main/phishing-url-detection/08_gradient_boost_xgboost.ipynb)
+
+- **K-Means (Elbow + Silhouette)**  
+  [09_kmeans_elbow_silhouette](https://github.com/amarem07/Portfolio/blob/main/phishing-url-detection/09_kmeans_elbow_silhouette.ipynb)
+
+- **DBSCAN Core Indices**  
+  [10_dbscan_core_indices](https://github.com/amarem07/Portfolio/blob/main/phishing-url-detection/10_dbscan_core_indices.ipynb)
+
+---
+
+
 
 
 
