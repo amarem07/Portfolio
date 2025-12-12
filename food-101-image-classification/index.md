@@ -178,3 +178,19 @@ To push performance higher:
 
 ---
 
+## 📁 11. Files in This Folder
+
+### 📓 Jupyter Notebooks  
+(Links open fully rendered on GitHub)
+
+- **Final Model Notebook**  
+  [FinalCodeNotebook.ipynb](https://github.com/amarem07/Portfolio/blob/main/food-101-image-classification/FinalCodeNotebook.ipynb)
+
+- **Milestone 1 Notebook**  
+  [Milestone01.ipynb](https://github.com/amarem07/Portfolio/blob/main/food-101-image-classification/Milestone01.ipynb)
+
+- **Milestone 2 Notebook**  
+  [Milestone02.ipynb](https://github.com/amarem07/Portfolio/blob/main/food-101-image-classification/Milestone02.ipynb)
+
+---
+
